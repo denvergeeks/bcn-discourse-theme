@@ -1,3 +1,5 @@
+<!-- 
+
 import { inject as service } from "@ember/service";
 import Component from "@glimmer/component";
 import { defaultHomepage } from "discourse/lib/utilities";
@@ -29,3 +31,5 @@ export default class BcnHero extends Component {
   }
 
 } 
+
+-->
